@@ -22,3 +22,4 @@ This project uses OpenCV to detect blue areas in an uploaded image and draw gree
 
 ## Example Result
 Here is an example of an image processed by the code:
+![Image](https://github.com/user-attachments/assets/0176a30c-5053-49b8-87cb-aa5fbc02e372)
